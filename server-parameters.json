@@ -1,0 +1,18 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "UdacityProjectOdenyire"
+    },
+    {
+        "ParameterKey": "S3CodeBucketName",
+        "ParameterValue": "odenyire-project-2"
+    } ,
+    {
+        "ParameterKey": "S3CodeArchive",
+        "ParameterValue": "udagram-app.zip"
+    } ,
+    {
+    	"ParameterKey":"DistributionId",
+    	"ParameterValue": "EI8CFI2XOB48T"
+    }
+]
